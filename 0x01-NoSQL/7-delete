@@ -1,0 +1,2 @@
+// Deletes documents with the given IDs from the database.
+db.school.deleteMany({name: "Holberton school"})
