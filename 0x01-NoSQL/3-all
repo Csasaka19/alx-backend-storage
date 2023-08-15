@@ -1,2 +1,2 @@
 // lists all the documents in the collection
-debugger.schools.find().forEach(printjson)
+db.school.find().pretty()
